@@ -6,4 +6,4 @@ this is second changes in master
 
 ths is the changes from test_branch
 
-This is 
+This is test2
