@@ -4,12 +4,9 @@ this is changed in master
 
 this is second changes in master
 
-<<<<<<< HEAD
 ths is the changes from test_branch
 
 This is 
-=======
 this is change from branch
 
 changed on foxy and needs to be pulled to local test2
->>>>>>> 88d46d48f34fd3ab11ff036460c692ce8822a625
